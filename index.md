@@ -13,3 +13,5 @@ Welcome to Sam's latest coolest blog!
 </p>
 
 [Pay tribute to the legendary gnome child here](https://freezeen3.github.io/index_rm.html)
+
+[Play the cool roguelike here](https://freezeen3.github.io/webrogue/)
