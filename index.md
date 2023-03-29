@@ -2,11 +2,20 @@
 layout: home 
 ---
 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 Welcome to Sam's latest coolest blog!
 
-![Pay tribute to the legendary gnome child](/assets/gnomechild.jpg){: width="250" }
-
-<img src="/assets/gnomechild.jpg" width="250" height="YYY" />
 
 
-[here](https://freezeen3.github.io/index_rm.html/)
+
+<img src="/assets/gnomechild.jpg" width="250" height="YYY" class="center">
+
+
+[Pay tribute to the legendary gnome child here](https://freezeen3.github.io/index_rm.html/)
