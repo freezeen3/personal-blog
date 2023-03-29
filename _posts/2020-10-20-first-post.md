@@ -5,7 +5,7 @@ tags: first markdown example
 categories: demo
 ---
 
-This is a paragraph in my first post for demonstration to JJ
+This is a paragraph in my first post for demonstration to JJ the Great
 
 ## Heading Two 
 
